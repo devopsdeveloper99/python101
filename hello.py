@@ -1,7 +1,8 @@
-import fire
+# import fire
 
-def hello(name="World"):
-  return "Hello %s!" % name
+# def hello(name="World"):
+#   return "Hello %s!" % name
 
-if __name__ == '__main__':
-  fire.Fire(hello)
+# if __name__ == '__main__':
+#   fire.Fire(hello)
+print ("this is nazmul")
